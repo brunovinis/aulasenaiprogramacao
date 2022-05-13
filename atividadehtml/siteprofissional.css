@@ -1,0 +1,39 @@
+.link{
+   
+    position: relative;
+    text-decoration: none;
+    list-style: none;
+}
+.link:hover{
+    color: gold;
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+}
+header{
+    background-color: dodgerblue;
+    padding: 2%;
+    font-style: italic;
+}
+.subtituloum{
+    font-style:italic;
+    
+}
+.subtitulodois{
+    font-style: italic;
+    
+}
+
+body{
+    background-color: lightblue;
+   
+}
+footer{
+    background-color: dodgerblue;
+    padding: 2%;
+    font-style: italic;
+}
+.fim{
+    text-align: center;
+}
